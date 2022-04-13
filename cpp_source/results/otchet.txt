@@ -1,0 +1,31 @@
+
+ min conditional_number: 4.53968
+ max conditional_number: 4.87053
+ avg conditional_number: 4.68778
+
+ avg time gaus:		3.95644 ms
+ avg time inverse:	17.6597 ms
+ avg time lup_make:	7.03218 ms
+ avg time lup_solve:	0.14076 ms
+ avg time ldlt_solve:	0.09821 ms
+ avg time relax_solve:	2.45407 ms
+
+ min norm gaus: 8.43769e-15
+ max norm gaus: 1.68754e-14
+ avg norm gaus: 1.16529e-14
+
+ min norm lup: 1.12799e-13
+ max norm lup: 2.31756e-09
+ avg norm lup: 7.80701e-11
+
+ min norm ldlt: 7.10543e-15
+ max norm ldlt: 1.68754e-14
+ avg norm ldlt: 9.61009e-15
+
+ min norm relax: 1.43282e-09
+ max norm relax: 3.43306e-09
+ avg norm relax: 2.26342e-09
+
+ min relax iterations: 18
+ max relax iterations: 18
+ avg relax iterations: 18
